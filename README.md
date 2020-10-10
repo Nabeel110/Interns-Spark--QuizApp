@@ -1,4 +1,9 @@
+## Inters Spark React: Project 2 - QuizApp
+![alt text]https://github.com/Nabeel110/Interns-Spark--QuizApp/blob/master/src/images/screenshot.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### The project is live deployed at: http://interns-quizapp.surge.sh/
 
 ## Available Scripts
 
